@@ -4,3 +4,4 @@ docs/.vuepress/plugins
 public
 .vuepress/.cache
 .vuepress/.temp
+!.vuepress/public
