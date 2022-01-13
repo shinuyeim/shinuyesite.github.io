@@ -1,10 +1,11 @@
 ---
-title: 下hahds
-date: 2022-01-13 22:24:01
+title: x的平方根
+date: 2020-07-28
 tags:
- - 随笔
+ - 简单
+ - 力扣
 categories:
- - essay
+ - 算法笔记
 ---
 
 ## 题目描述
