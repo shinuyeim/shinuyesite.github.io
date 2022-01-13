@@ -2,7 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
-  base: "/shinuyesite.github.io/",
+  base: "/space/",
   title: "午后南杂",
   description: 'Enjoy when you can, and endure when you must.',
   dest: 'public',
