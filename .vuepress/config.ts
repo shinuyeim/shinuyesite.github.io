@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
   base: "/space/",
-  title: "午后南杂",
+  title: "Shinuye Site",
   description: 'Enjoy when you can, and endure when you must.',
   dest: 'public',
   head: [
@@ -14,23 +14,23 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: 'zh-CN',
   themeConfig: {
     style: '@vuepress-reco/style-default',
-    logo: '/head.png',
+    logo: '/head1.png',
     // logo: '/hero_black.png',
-    author: 'reco_luan',
-    authorAvatar: '/head.png',
+    author: 'shinuye',
+    authorAvatar: '/head1.png',
     docsRepo: 'https://github.com/recoluan/recoluan.github.io',
     docsBranch: 'gh-pages-source',
     lastUpdatedText: '',
     navbar:
     [
       { 
-        text: 'Contact',
-        children: [
-          { text: 'GitHub', link: 'https://github.com/recoluan' },
-          { text: '简书', link: 'https://www.jianshu.com/u/cd674a19515e' },
-          { text: 'CSDN', link: 'https://blog.csdn.net/recoluan' },
-          { text: '博客圆', link: 'https://www.cnblogs.com/luanhewei/' }
-        ]
+        text: 'GitHub',link: 'https://github.com/shinuyeim' 
+        // children: [
+        //   { text: 'GitHub', link: 'https://github.com/recoluan' },
+        //   { text: '简书', link: 'https://www.jianshu.com/u/cd674a19515e' },
+        //   { text: 'CSDN', link: 'https://blog.csdn.net/recoluan' },
+        //   { text: '博客圆', link: 'https://www.cnblogs.com/luanhewei/' }
+        // ]
       }
     ],
     // valine 设置
