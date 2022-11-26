@@ -33,16 +33,19 @@ export default defineUserConfig<DefaultThemeOptions>({
         // ]
       }
     ],
+    // markdown: {
+    //   "lineNumbers": true
+    // },
     // valine 设置
-    valineConfig: {
-      appId: 'Q6hMeY2PSaM9FMkXetzoJoU5-gzGzoHsz',
-      appKey: 'iLQlev5jo2Cm5pLcI0z3qhtr',
-      placeholder: '填写邮箱可以收到回复提醒哦！',
-      verify: true, // 验证码服务
-      // notify: true, //
-      recordIP: true,
-      // hideComments: true
-    },
+    // valineConfig: {
+    //   appId: 'Q6hMeY2PSaM9FMkXetzoJoU5-gzGzoHsz',
+    //   appKey: 'iLQlev5jo2Cm5pLcI0z3qhtr',
+    //   placeholder: '填写邮箱可以收到回复提醒哦！',
+    //   verify: true, // 验证码服务
+    //   // notify: true, //
+    //   recordIP: true,
+    //   // hideComments: true
+    // },
     autoAddCategoryToNavbar: true
   },
 })
