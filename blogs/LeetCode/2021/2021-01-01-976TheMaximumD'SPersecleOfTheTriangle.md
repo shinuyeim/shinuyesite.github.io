@@ -5,7 +5,7 @@ tags:
  - 简单
  - 力扣
 categories:
- - 算法笔记
+ - suanfabiji
 ---
 
 
