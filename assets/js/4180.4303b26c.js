@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkafternoon_grocery_store=self.webpackChunkafternoon_grocery_store||[]).push([[4180],{4180:(e,r,n)=>{n.r(r),n.d(r,{default:()=>s});var t=n(6252);const o={},s=(0,n(3744).Z)(o,[["render",function(e,r){return(0,t.wg)(),(0,t.iD)("div",null,"timeline")}]])}}]);
